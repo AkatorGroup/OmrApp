@@ -1,0 +1,6 @@
+**/bin
+**/obj
+**/.vs
+**/cut_image.gif
+**/cut_image.jpg
+**/output.json
